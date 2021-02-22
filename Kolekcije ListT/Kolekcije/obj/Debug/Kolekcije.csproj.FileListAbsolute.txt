@@ -1,0 +1,20 @@
+C:\Users\Korisnik\source\repos\Kolekcije\Kolekcije\bin\Debug\Kolekcije.exe.config
+C:\Users\Korisnik\source\repos\Kolekcije\Kolekcije\bin\Debug\Kolekcije.exe
+C:\Users\Korisnik\source\repos\Kolekcije\Kolekcije\bin\Debug\Kolekcije.pdb
+C:\Users\Korisnik\source\repos\Kolekcije\Kolekcije\obj\Debug\Kolekcije.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Kolekcije\Kolekcije\obj\Debug\Kolekcije.Form1.resources
+C:\Users\Korisnik\source\repos\Kolekcije\Kolekcije\obj\Debug\Kolekcije.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Kolekcije\Kolekcije\obj\Debug\Kolekcije.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Kolekcije\Kolekcije\obj\Debug\Kolekcije.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Kolekcije\Kolekcije\obj\Debug\Kolekcije.exe
+C:\Users\Korisnik\source\repos\Kolekcije\Kolekcije\obj\Debug\Kolekcije.pdb
+C:\Users\Lovro Šverko\source\repos\Kolekcije2\Kolekcije\bin\Debug\Kolekcije.exe.config
+C:\Users\Lovro Šverko\source\repos\Kolekcije2\Kolekcije\bin\Debug\Kolekcije.exe
+C:\Users\Lovro Šverko\source\repos\Kolekcije2\Kolekcije\bin\Debug\Kolekcije.pdb
+C:\Users\Lovro Šverko\source\repos\Kolekcije2\Kolekcije\obj\Debug\Kolekcije.csprojAssemblyReference.cache
+C:\Users\Lovro Šverko\source\repos\Kolekcije2\Kolekcije\obj\Debug\Kolekcije.Form1.resources
+C:\Users\Lovro Šverko\source\repos\Kolekcije2\Kolekcije\obj\Debug\Kolekcije.Properties.Resources.resources
+C:\Users\Lovro Šverko\source\repos\Kolekcije2\Kolekcije\obj\Debug\Kolekcije.csproj.GenerateResource.cache
+C:\Users\Lovro Šverko\source\repos\Kolekcije2\Kolekcije\obj\Debug\Kolekcije.csproj.CoreCompileInputs.cache
+C:\Users\Lovro Šverko\source\repos\Kolekcije2\Kolekcije\obj\Debug\Kolekcije.exe
+C:\Users\Lovro Šverko\source\repos\Kolekcije2\Kolekcije\obj\Debug\Kolekcije.pdb
